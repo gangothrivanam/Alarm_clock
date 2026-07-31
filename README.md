@@ -1,21 +1,23 @@
 # ⏰ Alarm Clock
 
-A simple and interactive Alarm Clock web application built using **HTML, CSS, and JavaScript**. The application displays the current time in real-time and allows users to set an alarm by selecting the hour, minute, and AM/PM.
+A simple and interactive **Alarm Clock** web application built using **HTML, CSS, and JavaScript**. The application displays the current time in real-time and allows users to set an alarm by selecting the hour, minute, and AM/PM.
+
+## 🚀 Live Demo
+
+👉 https://alarm-clock-18kz.onrender.com/
 
 
 <img width="1888" height="1012" alt="image" src="https://github.com/user-attachments/assets/2be78707-c93a-42f9-afba-9edeef8f3d59" />
 
-
-
-## 🚀 Features
+## ✨ Features
 
 - 🕒 Live digital clock
-- ⏰ Set an alarm
-- 🔔 Alarm notification with sound
-- 🎨 Clean and responsive user interface
+- ⏰ Set and clear alarms
+- 🔔 Alarm ringtone support
+- 🎨 Clean and responsive UI
 - 📱 Beginner-friendly JavaScript project
 
-## 🛠️ Technologies Used
+## 🛠️ Built With
 
 - HTML5
 - CSS3
@@ -35,25 +37,42 @@ Alarm-Clock/
 
 ## ▶️ How to Run
 
-1. Download or clone this repository.
+1. Clone this repository.
+
+```bash
+git clone https://github.com/gangothrivanam/Alarm-Clock.git
+```
+
 2. Open the project folder.
-3. Open `index.html` in any web browser.
-4. Set an alarm and enjoy!
 
-## 📸 Screenshot
+3. Open `index.html` in your browser.
 
-(Add a screenshot of your project here.)
+## 📸 Preview
 
-## 🎯 Future Improvements
+Visit the live project:
+
+https://alarm-clock-18kz.onrender.com/
+
+## 📚 What I Learned
+
+- JavaScript DOM Manipulation
+- Date and Time API
+- setInterval()
+- Event Handling
+- Loops
+- Form Controls
+- Responsive Web Design
+
+## 🔮 Future Improvements
 
 - Multiple alarms
-- Snooze feature
+- Snooze button
 - Dark mode
-- Alarm labels
 - Custom alarm sounds
+- Alarm labels
 
 ## 👩‍💻 Author
 
 **Vanam Gangothri**
 
-GitHub: https://github.com/gangothrivanam
+
